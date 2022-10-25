@@ -62,7 +62,7 @@ server {
 }
 ```
 
-## Usage
+## Usage, Usage
 Can redirect such links:
 ```
 //Profile link

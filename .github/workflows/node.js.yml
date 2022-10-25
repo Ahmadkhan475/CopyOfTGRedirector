@@ -29,5 +29,5 @@ jobs:
     - run: npm run build --if-present
     - run: pm2 update
     - run: sudo npm install pm2@latest -g
-    - run: pm2 init simple
+#    - run: pm2 init simple
     - run: sudo pm2 start npm
